@@ -40,39 +40,23 @@ test.describe('Lab Completion', () => {
       console.log('Could not read initial progress');
     }
     
+    // Simulate watching video for 102 seconds
+    console.log('Simulating video watch time...');
+    await page.waitForTimeout(102000);
+    
     // Click description icons
-    try {
-      const descriptionIcons = page.locator('ql-icon:has-text("description")');
-      const count = await descriptionIcons.count();
-      
-      for (let i = 0; i < count; i++) {
-        try {
-          await descriptionIcons.nth(i).click({ timeout: 5000 });
-          await page.waitForTimeout(6000);
-        } catch (clickError) {
-          console.log(`Could not click description icon ${i + 1}`);
-        }
-      }
-    } catch (iconError) {
-      console.log('No description icons found');
+    const descriptionIcons = page.locator('ql-icon:has-text("description")');
+    const count = await descriptionIcons.count();
+    for (let i = 0; i < count; i++) {
+      await descriptionIcons.nth(i).click();
+      await page.waitForTimeout(6000);
     }
     
-    // Mark video as completed using POST request
-    try {
-      await page.evaluate(() => {
-        fetch('/paths/69/course_sessions/28596565/video/548388/complete_button', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/x-www-form-urlencoded',
-            'X-CSRF-Token': document.querySelector('meta[name="csrf-token"]').content
-          }
-        });
-      });
-      console.log('Sent POST completion request');
-      await page.waitForTimeout(5000);
-    } catch (completeError) {
-      console.log('Could not complete video');
-    }
+    // Click Mark as Completed button
+    const completeButton = page.locator('ql-button:has-text("Mark as Completed")');
+    await completeButton.click();
+    console.log('Clicked completion button');
+    await page.waitForTimeout(3000);
     
     // Check final progress
     try {
