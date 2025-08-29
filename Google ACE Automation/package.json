@@ -1,0 +1,24 @@
+{
+  "name": "google-ace-automation",
+  "version": "1.0.0",
+  "description": "Automated Google Cloud Skills Boost course completion tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report",
+    "install:browsers": "playwright install",
+    "complete:videos": "playwright test complete_videos.spec.js",
+    "complete:all": "playwright test complete-modules.spec.ts"
+  },
+  "keywords": ["automation", "google-cloud", "playwright", "education"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "dotenv": "^17.2.1"
+  }
+}

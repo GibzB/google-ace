@@ -1,0 +1,128 @@
+[
+  {
+    "index": 1,
+    "title": "A Tour of Google Cloud Hands-on Labs",
+    "href": "/focuses/22754?parent=catalog&path=69",
+    "type": "book\nLab",
+    "courseTemplateId": null,
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/focuses/22754?parent=catalog&path=69"
+  },
+  {
+    "index": 2,
+    "title": "Preparing for Your Associate Cloud Engineer Journey",
+    "href": "/paths/69/course_sessions/26847168/quizzes/523325",
+    "type": "book\nCourse",
+    "courseTemplateId": null,
+    "courseSessionId": "26847168",
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523325"
+  },
+  {
+    "index": 3,
+    "title": "Google Cloud Fundamentals: Core Infrastructure",
+    "href": "/paths/69/course_sessions/28535699/quizzes/531566",
+    "type": "book\nCourse",
+    "courseTemplateId": null,
+    "courseSessionId": "28535699",
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566"
+  },
+  {
+    "index": 4,
+    "title": "Essential Google Cloud Infrastructure: Foundation",
+    "href": "/paths/69/course_templates/50",
+    "type": "book\nCourse",
+    "courseTemplateId": "50",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/50"
+  },
+  {
+    "index": 5,
+    "title": "Essential Google Cloud Infrastructure: Core Services",
+    "href": "/paths/69/course_templates/49",
+    "type": "book\nCourse",
+    "courseTemplateId": "49",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/49"
+  },
+  {
+    "index": 6,
+    "title": "Elastic Google Cloud Infrastructure: Scaling and Automation",
+    "href": "/paths/69/course_templates/178",
+    "type": "book\nCourse",
+    "courseTemplateId": "178",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/178"
+  },
+  {
+    "index": 7,
+    "title": "Getting Started with Google Kubernetes Engine",
+    "href": "/paths/69/course_templates/2",
+    "type": "book\nCourse",
+    "courseTemplateId": "2",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/2"
+  },
+  {
+    "index": 8,
+    "title": "Logging and Monitoring in Google Cloud",
+    "href": "/paths/69/course_templates/99",
+    "type": "book\nCourse",
+    "courseTemplateId": "99",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/99"
+  },
+  {
+    "index": 9,
+    "title": "Observability in Google Cloud",
+    "href": "/paths/69/course_templates/864",
+    "type": "book\nCourse",
+    "courseTemplateId": "864",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/864"
+  },
+  {
+    "index": 10,
+    "title": "Getting Started with Terraform for Google Cloud",
+    "href": "/paths/69/course_templates/443",
+    "type": "book\nCourse",
+    "courseTemplateId": "443",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/443"
+  },
+  {
+    "index": 11,
+    "title": "Implementing Cloud Load Balancing for Compute Engine",
+    "href": "/paths/69/course_templates/648",
+    "type": "book\nCourse",
+    "courseTemplateId": "648",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/648"
+  },
+  {
+    "index": 12,
+    "title": "Set Up an App Dev Environment on Google Cloud",
+    "href": "/paths/69/course_templates/637",
+    "type": "book\nCourse",
+    "courseTemplateId": "637",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/637"
+  },
+  {
+    "index": 13,
+    "title": "Develop your Google Cloud Network",
+    "href": "/paths/69/course_templates/625",
+    "type": "book\nCourse",
+    "courseTemplateId": "625",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/625"
+  },
+  {
+    "index": 14,
+    "title": "Build Infrastructure with Terraform on Google Cloud",
+    "href": "/paths/69/course_templates/636",
+    "type": "book\nCourse",
+    "courseTemplateId": "636",
+    "courseSessionId": null,
+    "fullUrl": "https://partner.cloudskillsboost.google/paths/69/course_templates/636"
+  }
+]

@@ -1,0 +1,6439 @@
+Google ACE Learning Path Activities
+Scraped: 29/08/2025, 13:56:50
+Total Activities: 794
+
+=== QUIZS ===
+1. Report Illegal Content
+   Course: Billy Gibendi
+   URL: https://reportingwidget.google.com/widget/54?cid=1&url=https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?
+
+2. العربية‬‎
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ar
+
+3. Deutsch
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=de
+
+4. English
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=en
+
+5. español (Latinoamérica)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=es
+
+6. français
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=fr
+
+7. français (Canada)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=fr_CA
+
+8. עברית
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=he
+
+9. bahasa Indonesia
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=id
+
+10. italiano
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=it
+
+11. 日本語
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ja
+
+12. 한국어
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ko
+
+13. polski
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=pl
+
+14. português (Brasil)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=pt_BR
+
+15. português (Portugal)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=pt_PT
+
+16. русский
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ru
+
+17. Türkçe
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=tr
+
+18. українська
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=uk
+
+19. 简体中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=zh
+
+20. 繁體中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=zh_TW
+
+21. العربية‬‎
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ar
+
+22. Deutsch
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=de
+
+23. English
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=en
+
+24. español (Latinoamérica)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=es
+
+25. français
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=fr
+
+26. français (Canada)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=fr_CA
+
+27. עברית
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=he
+
+28. bahasa Indonesia
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=id
+
+29. italiano
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=it
+
+30. 日本語
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ja
+
+31. 한국어
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ko
+
+32. polski
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=pl
+
+33. português (Brasil)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=pt_BR
+
+34. português (Portugal)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=pt_PT
+
+35. русский
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=ru
+
+36. Türkçe
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=tr
+
+37. українська
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=uk
+
+38. 简体中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=zh
+
+39. 繁體中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/523325?locale=zh_TW
+
+40. quiz
+        Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523304
+
+41. Activity completed
+        
+        check
+      
+      
+        quiz
+        Knowledge Check
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523307
+
+42. Activity completed
+        
+        check
+      
+      
+        quiz
+        Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523311
+
+43. quiz
+        Knowledge Check
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523314
+
+44. quiz
+        Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523318
+
+45. quiz
+        Knowledge Check
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523321
+
+46. quiz
+        Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523325
+
+47. quiz
+        Knowledge Check
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523328
+
+48. quiz
+        Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523332
+
+49. Activity completed
+        
+        check
+      
+      
+        quiz
+        Knowledge Check
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/quizzes/523335
+
+50. Preparing for Your Associate Cloud Engineer Journey
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/77/quizzes/module_name
+
+51. Start quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/26847168/quizzes/523325/start
+
+52. Report Illegal Content
+   Course: Billy Gibendi
+   URL: https://reportingwidget.google.com/widget/54?cid=1&url=https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?
+
+53. العربية‬‎
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ar
+
+54. Deutsch
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=de
+
+55. English
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=en
+
+56. español (Latinoamérica)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=es
+
+57. français
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=fr
+
+58. français (Canada)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=fr_CA
+
+59. עברית
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=he
+
+60. bahasa Indonesia
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=id
+
+61. italiano
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=it
+
+62. 日本語
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ja
+
+63. 한국어
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ko
+
+64. polski
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=pl
+
+65. português (Brasil)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=pt_BR
+
+66. português (Portugal)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=pt_PT
+
+67. русский
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ru
+
+68. Türkçe
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=tr
+
+69. українська
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=uk
+
+70. 简体中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=zh
+
+71. 繁體中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=zh_TW
+
+72. العربية‬‎
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ar
+
+73. Deutsch
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=de
+
+74. English
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=en
+
+75. español (Latinoamérica)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=es
+
+76. français
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=fr
+
+77. français (Canada)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=fr_CA
+
+78. עברית
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=he
+
+79. bahasa Indonesia
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=id
+
+80. italiano
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=it
+
+81. 日本語
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ja
+
+82. 한국어
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ko
+
+83. polski
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=pl
+
+84. português (Brasil)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=pt_BR
+
+85. português (Portugal)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=pt_PT
+
+86. русский
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=ru
+
+87. Türkçe
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=tr
+
+88. українська
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=uk
+
+89. 简体中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=zh
+
+90. 繁體中文
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/531566?locale=zh_TW
+
+91. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+92. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531573
+
+93. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531582
+
+94. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531592
+
+95. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531596
+
+96. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531600
+
+97. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531602
+
+98. Google Cloud Fundamentals: Core Infrastructure
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/60/quizzes/module_name
+
+99. quiz
+        Quiz: Interacting with Google Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/quizzes/578274
+
+100. quiz
+        Quiz: Virtual Networks
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/quizzes/578293
+
+101. quiz
+        Quiz: Virtual Machines
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/quizzes/578311
+
+102. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Interacting with Google Cloud
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/quizzes/578274
+
+103. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Virtual Networks
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/quizzes/578293
+
+104. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Virtual Machines
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/quizzes/578311
+
+105. quiz
+        Quiz: Identity and Access Management
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548399
+
+106. quiz
+        Quiz: Storage and Database Services
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548418
+
+107. quiz
+        Quiz: Resource Management
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548429
+
+108. quiz
+        Quiz: Resource Monitoring
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548442
+
+109. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Identity and Access Management
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548399
+
+110. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Storage and Database Services
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548418
+
+111. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Resource Management
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548429
+
+112. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Resource Monitoring
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/quizzes/548442
+
+113. quiz
+        Quiz: Interconnecting Networks
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567833
+
+114. quiz
+        Quiz: Load Balancing and Autoscaling
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567851
+
+115. quiz
+        Quiz: Infrastructure Automation
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567860
+
+116. quiz
+        Quiz: Managed Services
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567868
+
+117. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Interconnecting Networks
+             20 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567833
+
+118. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Load Balancing and Autoscaling
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567851
+
+119. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Infrastructure Automation
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567860
+
+120. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Managed Services
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/quizzes/567868
+
+121. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562165
+
+122. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562173
+
+123. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562181
+
+124. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562187
+
+125. Quiz
+        
+      
+
+      
+        
+          
+            Quiz
+             20 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562165
+
+126. Quiz
+        
+      
+
+      
+        
+          
+            Quiz
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562173
+
+127. Quiz
+        
+      
+
+      
+        
+          
+            Quiz
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562181
+
+128. Quiz
+        
+      
+
+      
+        
+          
+            Quiz
+             20 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/quizzes/562187
+
+129. quiz
+        Quiz - Introduction to Google Cloud Observability
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533939
+
+130. quiz
+        Quiz - Monitoring critical systems
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533949
+
+131. quiz
+        Quiz - Alerting Policies
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533958
+
+132. quiz
+        Quiz - Advanced Logging and Analysis
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533968
+
+133. quiz
+        Quiz - Working with Audit Logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533976
+
+134. Quiz
+        
+      
+
+      
+        
+          
+            Quiz - Introduction to Google Cloud Observability
+             20 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533939
+
+135. Quiz
+        
+      
+
+      
+        
+          
+            Quiz - Monitoring critical systems
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533949
+
+136. Quiz
+        
+      
+
+      
+        
+          
+            Quiz - Alerting Policies
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533958
+
+137. Quiz
+        
+      
+
+      
+        
+          
+            Quiz - Advanced Logging and Analysis
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533968
+
+138. Quiz
+        
+      
+
+      
+        
+          
+            Quiz - Working with Audit Logs
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/quizzes/533976
+
+139. quiz
+        Configuring Google Cloud Services for Observability
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515458
+
+140. quiz
+        Monitoring Google Cloud Network
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515468
+
+141. quiz
+        Quiz - Investigating Application Performance Issues
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515475
+
+142. quiz
+        Quiz
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515481
+
+143. Quiz
+        
+      
+
+      
+        
+          
+            Configuring Google Cloud Services for Observability
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515458
+
+144. Quiz
+        
+      
+
+      
+        
+          
+            Monitoring Google Cloud Network
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515468
+
+145. Quiz
+        
+      
+
+      
+        
+          
+            Quiz - Investigating Application Performance Issues
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515475
+
+146. Quiz
+        
+      
+
+      
+        
+          
+            Quiz
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/quizzes/515481
+
+147. quiz
+        Quiz : Introduction to Terraform for Google Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508941
+
+148. quiz
+        Quiz: Terms and Concepts
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508951
+
+149. quiz
+        Quiz: Writing Infrastructure Code for Google Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508963
+
+150. quiz
+        Quiz: Organizing and Reusing Configuration with Terraform Modules
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508973
+
+151. quiz
+        Quiz: Introduction to Terraform State
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508981
+
+152. Quiz
+        
+      
+
+      
+        
+          
+            Quiz : Introduction to Terraform for Google Cloud
+             20 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508941
+
+153. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Terms and Concepts
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508951
+
+154. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Writing Infrastructure Code for Google Cloud
+             20 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508963
+
+155. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Organizing and Reusing Configuration with Terraform Modules
+             20 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508973
+
+156. Quiz
+        
+      
+
+      
+        
+          
+            Quiz: Introduction to Terraform State
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/quizzes/508981
+
+157. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+158. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+159. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Preparing for Your Associate Cloud Engineer Journey
+          
+          
+      
+
+
+
+
+ Intermediate
+     This course helps you structure your preparation for the Associate Cloud Engineer exam. You will learn about the Google Cloud domains covered by the exam and how to create a study plan to improve your domain knowledge.
+        
+        
+          
+            
+        
+          
+          
+          
+            81%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/26847168/quizzes/523325
+
+160. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Google Cloud Fundamentals: Core Infrastructure
+          
+          
+      
+  
+  
+  
+
+ Introductory
+     Google Cloud Fundamentals: Core Infrastructure introduces important concepts and terminology for working with Google Cloud. Through videos and hands-on labs, this course presents and compares many of Google Cloud's computing and storage services, along with important resource and policy management tools.
+        
+        
+          
+            
+        
+          
+          
+          
+            79%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/28535699/quizzes/531566
+
+161. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+162. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+163. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Preparing for Your Associate Cloud Engineer Journey
+          
+          
+      
+
+
+
+
+ Intermediate
+     This course helps you structure your preparation for the Associate Cloud Engineer exam. You will learn about the Google Cloud domains covered by the exam and how to create a study plan to improve your domain knowledge.
+        
+        
+          
+            
+        
+          
+          
+          
+            81%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/26847168/quizzes/523325
+
+164. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Google Cloud Fundamentals: Core Infrastructure
+          
+          
+      
+  
+  
+  
+
+ Introductory
+     Google Cloud Fundamentals: Core Infrastructure introduces important concepts and terminology for working with Google Cloud. Through videos and hands-on labs, this course presents and compares many of Google Cloud's computing and storage services, along with important resource and policy management tools.
+        
+        
+          
+            
+        
+          
+          
+          
+            79%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/28535699/quizzes/531566
+
+165. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+166. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+167. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Preparing for Your Associate Cloud Engineer Journey
+          
+          
+      
+
+
+
+
+ Intermediate
+     This course helps you structure your preparation for the Associate Cloud Engineer exam. You will learn about the Google Cloud domains covered by the exam and how to create a study plan to improve your domain knowledge.
+        
+        
+          
+            
+        
+          
+          
+          
+            81%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/26847168/quizzes/523325
+
+168. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Google Cloud Fundamentals: Core Infrastructure
+          
+          
+      
+  
+  
+  
+
+ Introductory
+     Google Cloud Fundamentals: Core Infrastructure introduces important concepts and terminology for working with Google Cloud. Through videos and hands-on labs, this course presents and compares many of Google Cloud's computing and storage services, along with important resource and policy management tools.
+        
+        
+          
+            
+        
+          
+          
+          
+            79%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/28535699/quizzes/531566
+
+169. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+170. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/quizzes/531566
+
+171. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Preparing for Your Associate Cloud Engineer Journey
+          
+          
+      
+
+
+
+
+ Intermediate
+     This course helps you structure your preparation for the Associate Cloud Engineer exam. You will learn about the Google Cloud domains covered by the exam and how to create a study plan to improve your domain knowledge.
+        
+        
+          
+            
+        
+          
+          
+          
+            81%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/26847168/quizzes/523325
+
+172. Course 
+      
+              
+              
+              
+              
+              
+              
+            
+            
+              
+              
+              
+            
+          
+          
+            Google Cloud Fundamentals: Core Infrastructure
+          
+          
+      
+  
+  
+  
+
+ Introductory
+     Google Cloud Fundamentals: Core Infrastructure introduces important concepts and terminology for working with Google Cloud. Through videos and hands-on labs, this course presents and compares many of Google Cloud's computing and storage services, along with important resource and policy management tools.
+        
+        
+          
+            
+        
+          
+          
+          
+            79%
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/course_sessions/28535699/quizzes/531566
+
+=== VIDEOS ===
+1. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523295
+
+2. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Introduction to the Associate Cloud Engineer role
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523296
+
+3. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Certification value and benefits
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523297
+
+4. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Certification process
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523298
+
+5. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Creating your study plan
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523299
+
+6. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523301
+
+7. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Setting up Cymbal Superstore's cloud environment
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523302
+
+8. youtube_tv
+        Introduction: Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523303
+
+9. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Creating your study plan
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523305
+
+10. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523308
+
+11. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Selecting resources for Cymbal Superstore’s cloud solutions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523309
+
+12. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Introduction: Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523310
+
+13. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Creating your study plan
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523312
+
+14. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523315
+
+15. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Deploying and implementing Cymbal Superstore’s cloud recommended solutions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523316
+
+16. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Introduction: Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523317
+
+17. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Creating your study plan
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523319
+
+18. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523322
+
+19. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Managing Cymbal Superstore’s cloud solutions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523323
+
+20. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Introduction: Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523324
+
+21. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Creating your study plan
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523326
+
+22. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523329
+
+23. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Managing access for Cymbal Superstore’s cloud solutions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523330
+
+24. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Introduction: Diagnostic questions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523331
+
+25. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Creating your study plan
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523333
+
+26. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Your next steps
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523336
+
+27. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523324
+
+28. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/26847168/video/523326
+
+29. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Course Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531558
+
+30. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud computing overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531559
+
+31. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        IaaS and PaaS
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531560
+
+32. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        The Google Cloud network
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531561
+
+33. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Environmental impact
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531562
+
+34. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Security
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531563
+
+35. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Open source ecosystems
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531564
+
+36. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Pricing and billing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531565
+
+37. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Google Cloud resource hierarchy
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531567
+
+38. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Identity and Access Management (IAM)
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531568
+
+39. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Service accounts
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531569
+
+40. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud Identity
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531570
+
+41. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Interacting with Google Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531571
+
+42. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Virtual Private Cloud networking
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531574
+
+43. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Compute Engine
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531575
+
+44. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Scaling virtual machines
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531576
+
+45. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Important VPC compatibilities
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531577
+
+46. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud Load Balancing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531578
+
+47. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud DNS and Cloud CDN
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531579
+
+48. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Connecting networks to Google VPC
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531580
+
+49. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Google Cloud storage options
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531583
+
+50. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud Storage
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531584
+
+51. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud Storage: Storage classes and data transfer
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531585
+
+52. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud SQL
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531586
+
+53. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Spanner
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531587
+
+54. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Firestore
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531588
+
+55. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Bigtable
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531589
+
+56. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Comparing storage options
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531590
+
+57. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Introduction to containers
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531593
+
+58. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Kubernetes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531594
+
+59. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Google Kubernetes Engine
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531595
+
+60. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Cloud Run
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531597
+
+61. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Development in the cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531598
+
+62. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Prompt Engineering
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531601
+
+63. Activity completed
+        
+        check
+      
+      
+        youtube_tv
+        Course summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531603
+
+64. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531565
+
+65. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_sessions/28535699/video/531567
+
+66. youtube_tv
+        Course Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578263
+
+67. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578265
+
+68. youtube_tv
+        Using Google Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578266
+
+69. youtube_tv
+        Lab Intro: Working with the Google Cloud Console and Cloud Shell
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578267
+
+70. youtube_tv
+        Lab Review: Working with the Google Cloud Console and Cloud Shell
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578269
+
+71. youtube_tv
+        Lab Intro: Infrastructure Preview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578270
+
+72. youtube_tv
+        Lab Review: Infrastructure Preview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578272
+
+73. youtube_tv
+        Demo: Projects
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578273
+
+74. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578275
+
+75. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578276
+
+76. youtube_tv
+        Virtual Private Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578277
+
+77. youtube_tv
+        Projects, networks, and subnetworks
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578278
+
+78. youtube_tv
+        Demo: Expand a Subnet
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578279
+
+79. youtube_tv
+        IP addresses
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578280
+
+80. youtube_tv
+        Demo: Internal and external IP
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578281
+
+81. youtube_tv
+        Mapping IP addresses
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578282
+
+82. youtube_tv
+        Routes and firewall rules
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578284
+
+83. youtube_tv
+        Pricing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578285
+
+84. youtube_tv
+        Lab Intro: VPC Networking
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578286
+
+85. youtube_tv
+        Lab Review: VPC Networking
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578288
+
+86. youtube_tv
+        Common network designs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578289
+
+87. youtube_tv
+        Lab Intro: Implement Private Google Access and Cloud NAT
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578290
+
+88. youtube_tv
+        Lab Review: Implement Private Google Access and Cloud NAT
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578292
+
+89. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578294
+
+90. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578295
+
+91. youtube_tv
+        Compute Engine
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578296
+
+92. youtube_tv
+        Demo: Create a VM
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578297
+
+93. youtube_tv
+        VM access and lifecycle
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578298
+
+94. youtube_tv
+        Lab Intro: Creating Virtual Machines
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578299
+
+95. youtube_tv
+        Lab Review: Creating Virtual Machines
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578301
+
+96. youtube_tv
+        Compute options
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578302
+
+97. youtube_tv
+        Compute pricing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578303
+
+98. youtube_tv
+        Special compute configurations
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578304
+
+99. youtube_tv
+        Images
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578305
+
+100. youtube_tv
+        Disk options
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578306
+
+101. youtube_tv
+        Common Compute Engine actions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578307
+
+102. youtube_tv
+        Lab Intro: Working with Virtual Machines
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578308
+
+103. youtube_tv
+        Lab Review: Working with Virtual Machines
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578310
+
+104. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578312
+
+105. youtube_tv
+        Course Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578313
+
+106. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578263
+
+107. Video
+        
+      
+
+      
+        
+          
+            Course Introduction
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578263
+
+108. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578265
+
+109. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578265
+
+110. Video
+        
+      
+
+      
+        
+          
+            Using Google Cloud
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578266
+
+111. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Working with the Google Cloud Console and Cloud Shell
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578267
+
+112. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Working with the Google Cloud Console and Cloud Shell
+             9 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578269
+
+113. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Infrastructure Preview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578270
+
+114. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Infrastructure Preview
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578272
+
+115. Video
+        
+      
+
+      
+        
+          
+            Demo: Projects
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578273
+
+116. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578275
+
+117. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578276
+
+118. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578276
+
+119. Video
+        
+      
+
+      
+        
+          
+            Virtual Private Cloud
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578277
+
+120. Video
+        
+      
+
+      
+        
+          
+            Projects, networks, and subnetworks
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578278
+
+121. Video
+        
+      
+
+      
+        
+          
+            Demo: Expand a Subnet
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578279
+
+122. Video
+        
+      
+
+      
+        
+          
+            IP addresses
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578280
+
+123. Video
+        
+      
+
+      
+        
+          
+            Demo: Internal and external IP
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578281
+
+124. Video
+        
+      
+
+      
+        
+          
+            Mapping IP addresses
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578282
+
+125. Video
+        
+      
+
+      
+        
+          
+            Routes and firewall rules
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578284
+
+126. Video
+        
+      
+
+      
+        
+          
+            Pricing
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578285
+
+127. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: VPC Networking
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578286
+
+128. Video
+        
+      
+
+      
+        
+          
+            Lab Review: VPC Networking
+             22 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578288
+
+129. Video
+        
+      
+
+      
+        
+          
+            Common network designs
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578289
+
+130. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Implement Private Google Access and Cloud NAT
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578290
+
+131. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Implement Private Google Access and Cloud NAT
+             15 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578292
+
+132. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578294
+
+133. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578295
+
+134. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578295
+
+135. Video
+        
+      
+
+      
+        
+          
+            Compute Engine
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578296
+
+136. Video
+        
+      
+
+      
+        
+          
+            Demo: Create a VM
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578297
+
+137. Video
+        
+      
+
+      
+        
+          
+            VM access and lifecycle
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578298
+
+138. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Creating Virtual Machines
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578299
+
+139. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Creating Virtual Machines
+             12 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578301
+
+140. Video
+        
+      
+
+      
+        
+          
+            Compute options
+             12 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578302
+
+141. Video
+        
+      
+
+      
+        
+          
+            Compute pricing
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578303
+
+142. Video
+        
+      
+
+      
+        
+          
+            Special compute configurations
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578304
+
+143. Video
+        
+      
+
+      
+        
+          
+            Images
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578305
+
+144. Video
+        
+      
+
+      
+        
+          
+            Disk options
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578306
+
+145. Video
+        
+      
+
+      
+        
+          
+            Common Compute Engine actions
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578307
+
+146. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Working with Virtual Machines
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578308
+
+147. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Working with Virtual Machines
+             19 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578310
+
+148. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578312
+
+149. Video
+        
+      
+
+      
+        
+          
+            Course Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/50/video/578313
+
+150. youtube_tv
+        Course Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548385
+
+151. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548387
+
+152. youtube_tv
+        Identity and Access Management
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548388
+
+153. youtube_tv
+        Organization
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548389
+
+154. youtube_tv
+        Roles
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548390
+
+155. youtube_tv
+        Demo: Custom roles
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548391
+
+156. youtube_tv
+        Members
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548392
+
+157. youtube_tv
+        Service Accounts
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548393
+
+158. youtube_tv
+        Organization Restrictions
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548394
+
+159. youtube_tv
+        IAM best practices
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548395
+
+160. youtube_tv
+        Lab Intro: Exploring IAM
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548396
+
+161. youtube_tv
+        Lab Review: Exploring IAM
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548398
+
+162. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548400
+
+163. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548401
+
+164. youtube_tv
+        Cloud Storage
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548402
+
+165. youtube_tv
+        Cloud Storage Features
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548403
+
+166. youtube_tv
+        Choosing a storage class
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548404
+
+167. youtube_tv
+        Filestore
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548405
+
+168. youtube_tv
+        Lab Intro: Cloud Storage
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548406
+
+169. youtube_tv
+        Lab Review: Cloud Storage
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548408
+
+170. youtube_tv
+        Cloud SQL
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548409
+
+171. youtube_tv
+        Lab Intro: Cloud SQL
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548410
+
+172. youtube_tv
+        Lab Review: Cloud SQL
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548412
+
+173. youtube_tv
+        Spanner
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548413
+
+174. youtube_tv
+        AlloyDB
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548414
+
+175. youtube_tv
+        Firestore
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548415
+
+176. youtube_tv
+        Bigtable
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548416
+
+177. youtube_tv
+        Memorystore
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548417
+
+178. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548419
+
+179. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548420
+
+180. youtube_tv
+        Resource Manager
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548421
+
+181. youtube_tv
+        Quotas
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548422
+
+182. youtube_tv
+        Labels
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548423
+
+183. youtube_tv
+        Billing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548424
+
+184. youtube_tv
+        Demo: Billing Administration
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548425
+
+185. youtube_tv
+        Lab Intro: Examining Billing Data with BigQuery
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548426
+
+186. youtube_tv
+        Lab Review: Examining Billing Data with BigQuery
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548428
+
+187. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548430
+
+188. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548431
+
+189. youtube_tv
+        Google Cloud Observability Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548432
+
+190. youtube_tv
+        Monitoring
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548433
+
+191. youtube_tv
+        Lab Intro: Resource Monitoring
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548434
+
+192. youtube_tv
+        Lab Review: Resource Monitoring
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548436
+
+193. youtube_tv
+        Logging
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548437
+
+194. youtube_tv
+        Error Reporting
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548438
+
+195. youtube_tv
+        Tracing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548439
+
+196. youtube_tv
+        Profiling
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548440
+
+197. youtube_tv
+        Partner Integrations
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548441
+
+198. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548443
+
+199. youtube_tv
+        Course Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548444
+
+200. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548385
+
+201. Video
+        
+      
+
+      
+        
+          
+            Course Introduction
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548385
+
+202. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548387
+
+203. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548387
+
+204. Video
+        
+      
+
+      
+        
+          
+            Identity and Access Management
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548388
+
+205. Video
+        
+      
+
+      
+        
+          
+            Organization
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548389
+
+206. Video
+        
+      
+
+      
+        
+          
+            Roles
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548390
+
+207. Video
+        
+      
+
+      
+        
+          
+            Demo: Custom roles
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548391
+
+208. Video
+        
+      
+
+      
+        
+          
+            Members
+             9 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548392
+
+209. Video
+        
+      
+
+      
+        
+          
+            Service Accounts
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548393
+
+210. Video
+        
+      
+
+      
+        
+          
+            Organization Restrictions
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548394
+
+211. Video
+        
+      
+
+      
+        
+          
+            IAM best practices
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548395
+
+212. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Exploring IAM
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548396
+
+213. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Exploring IAM
+             14 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548398
+
+214. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548400
+
+215. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548401
+
+216. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548401
+
+217. Video
+        
+      
+
+      
+        
+          
+            Cloud Storage
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548402
+
+218. Video
+        
+      
+
+      
+        
+          
+            Cloud Storage Features
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548403
+
+219. Video
+        
+      
+
+      
+        
+          
+            Choosing a storage class
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548404
+
+220. Video
+        
+      
+
+      
+        
+          
+            Filestore
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548405
+
+221. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Cloud Storage
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548406
+
+222. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Cloud Storage
+             28 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548408
+
+223. Video
+        
+      
+
+      
+        
+          
+            Cloud SQL
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548409
+
+224. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Cloud SQL
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548410
+
+225. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Cloud SQL
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548412
+
+226. Video
+        
+      
+
+      
+        
+          
+            Spanner
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548413
+
+227. Video
+        
+      
+
+      
+        
+          
+            AlloyDB
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548414
+
+228. Video
+        
+      
+
+      
+        
+          
+            Firestore
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548415
+
+229. Video
+        
+      
+
+      
+        
+          
+            Bigtable
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548416
+
+230. Video
+        
+      
+
+      
+        
+          
+            Memorystore
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548417
+
+231. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548419
+
+232. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548420
+
+233. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548420
+
+234. Video
+        
+      
+
+      
+        
+          
+            Resource Manager
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548421
+
+235. Video
+        
+      
+
+      
+        
+          
+            Quotas
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548422
+
+236. Video
+        
+      
+
+      
+        
+          
+            Labels
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548423
+
+237. Video
+        
+      
+
+      
+        
+          
+            Billing
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548424
+
+238. Video
+        
+      
+
+      
+        
+          
+            Demo: Billing Administration
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548425
+
+239. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Examining Billing Data with BigQuery
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548426
+
+240. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Examining Billing Data with BigQuery
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548428
+
+241. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548430
+
+242. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548431
+
+243. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548431
+
+244. Video
+        
+      
+
+      
+        
+          
+            Google Cloud Observability Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548432
+
+245. Video
+        
+      
+
+      
+        
+          
+            Monitoring
+             9 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548433
+
+246. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Resource Monitoring
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548434
+
+247. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Resource Monitoring
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548436
+
+248. Video
+        
+      
+
+      
+        
+          
+            Logging
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548437
+
+249. Video
+        
+      
+
+      
+        
+          
+            Error Reporting
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548438
+
+250. Video
+        
+      
+
+      
+        
+          
+            Tracing
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548439
+
+251. Video
+        
+      
+
+      
+        
+          
+            Profiling
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548440
+
+252. Video
+        
+      
+
+      
+        
+          
+            Partner Integrations
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548441
+
+253. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548443
+
+254. Video
+        
+      
+
+      
+        
+          
+            Course Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/49/video/548444
+
+255. youtube_tv
+        Course Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567821
+
+256. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567823
+
+257. youtube_tv
+        Cloud VPN
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567824
+
+258. youtube_tv
+        Lab Intro: Configuring Google Cloud HA VPN
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567826
+
+259. youtube_tv
+        Cloud Interconnect and Peering
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567828
+
+260. youtube_tv
+        Cloud Interconnect
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567829
+
+261. youtube_tv
+        Peering
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567830
+
+262. youtube_tv
+        Choosing a connection
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567831
+
+263. youtube_tv
+        Shared VPC and VPC Peering
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567832
+
+264. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567834
+
+265. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567835
+
+266. youtube_tv
+        Managed instance groups
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567836
+
+267. youtube_tv
+        Autoscaling and health checks
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567837
+
+268. youtube_tv
+        Overview of Application Load Balancing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567838
+
+269. youtube_tv
+        Example: Application Load Balancing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567839
+
+270. youtube_tv
+        Application Load Balancing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567840
+
+271. youtube_tv
+        Lab Intro: Configure an Application Load Balancer with Autoscaling
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567841
+
+272. youtube_tv
+        Lab Review: Configure an Application Load Balancer with Autoscaling
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567843
+
+273. youtube_tv
+        Cloud CDN
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567844
+
+274. youtube_tv
+        Network load balancing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567845
+
+275. youtube_tv
+        Internal load balancing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567846
+
+276. youtube_tv
+        Lab Intro: Configure an Internal Load Balancer
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567847
+
+277. youtube_tv
+        Lab Review: Configure an Internal Load Balancer
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567849
+
+278. youtube_tv
+        Choosing a load balancer
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567850
+
+279. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567852
+
+280. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567853
+
+281. youtube_tv
+        Terraform
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567854
+
+282. youtube_tv
+        Lab Intro: Automating the Deployment of Infrastructure Using Terraform
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567855
+
+283. youtube_tv
+        Lab Review: Automating the Deployment of Infrastructure Using Terraform
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567857
+
+284. youtube_tv
+        Google Cloud Marketplace
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567858
+
+285. youtube_tv
+        Demo: Launch Infrastructure Solutions on Google Cloud Marketplace
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567859
+
+286. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567861
+
+287. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567862
+
+288. youtube_tv
+        BigQuery
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567863
+
+289. youtube_tv
+        Dataflow
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567864
+
+290. youtube_tv
+        Dataprep
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567865
+
+291. youtube_tv
+        Dataproc
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567866
+
+292. youtube_tv
+        Demo: Dataproc
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567867
+
+293. youtube_tv
+        Module Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567869
+
+294. youtube_tv
+        Course Series Review
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567870
+
+295. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567821
+
+296. Video
+        
+      
+
+      
+        
+          
+            Course Introduction
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567821
+
+297. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567823
+
+298. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567823
+
+299. Video
+        
+      
+
+      
+        
+          
+            Cloud VPN
+             10 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567824
+
+300. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Configuring Google Cloud HA VPN
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567826
+
+301. Video
+        
+      
+
+      
+        
+          
+            Cloud Interconnect and Peering
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567828
+
+302. Video
+        
+      
+
+      
+        
+          
+            Cloud Interconnect
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567829
+
+303. Video
+        
+      
+
+      
+        
+          
+            Peering
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567830
+
+304. Video
+        
+      
+
+      
+        
+          
+            Choosing a connection
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567831
+
+305. Video
+        
+      
+
+      
+        
+          
+            Shared VPC and VPC Peering
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567832
+
+306. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567834
+
+307. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567835
+
+308. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567835
+
+309. Video
+        
+      
+
+      
+        
+          
+            Managed instance groups
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567836
+
+310. Video
+        
+      
+
+      
+        
+          
+            Autoscaling and health checks
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567837
+
+311. Video
+        
+      
+
+      
+        
+          
+            Overview of Application Load Balancing
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567838
+
+312. Video
+        
+      
+
+      
+        
+          
+            Example: Application Load Balancing
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567839
+
+313. Video
+        
+      
+
+      
+        
+          
+            Application Load Balancing
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567840
+
+314. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Configure an Application Load Balancer with Autoscaling
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567841
+
+315. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Configure an Application Load Balancer with Autoscaling
+             25 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567843
+
+316. Video
+        
+      
+
+      
+        
+          
+            Cloud CDN
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567844
+
+317. Video
+        
+      
+
+      
+        
+          
+            Network load balancing
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567845
+
+318. Video
+        
+      
+
+      
+        
+          
+            Internal load balancing
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567846
+
+319. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Configure an Internal Load Balancer
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567847
+
+320. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Configure an Internal Load Balancer
+             13 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567849
+
+321. Video
+        
+      
+
+      
+        
+          
+            Choosing a load balancer
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567850
+
+322. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567852
+
+323. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567853
+
+324. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567853
+
+325. Video
+        
+      
+
+      
+        
+          
+            Terraform
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567854
+
+326. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Automating the Deployment of Infrastructure Using Terraform
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567855
+
+327. Video
+        
+      
+
+      
+        
+          
+            Lab Review: Automating the Deployment of Infrastructure Using Terraform
+             14 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567857
+
+328. Video
+        
+      
+
+      
+        
+          
+            Google Cloud Marketplace
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567858
+
+329. Video
+        
+      
+
+      
+        
+          
+            Demo: Launch Infrastructure Solutions on Google Cloud Marketplace
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567859
+
+330. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567861
+
+331. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567862
+
+332. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567862
+
+333. Video
+        
+      
+
+      
+        
+          
+            BigQuery
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567863
+
+334. Video
+        
+      
+
+      
+        
+          
+            Dataflow
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567864
+
+335. Video
+        
+      
+
+      
+        
+          
+            Dataprep
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567865
+
+336. Video
+        
+      
+
+      
+        
+          
+            Dataproc
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567866
+
+337. Video
+        
+      
+
+      
+        
+          
+            Demo: Dataproc
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567867
+
+338. Video
+        
+      
+
+      
+        
+          
+            Module Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567869
+
+339. Video
+        
+      
+
+      
+        
+          
+            Course Series Review
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/178/video/567870
+
+340. youtube_tv
+        Course introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562155
+
+341. youtube_tv
+        Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562156
+
+342. youtube_tv
+        Cloud computing and Google Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562157
+
+343. youtube_tv
+        Google Cloud compute offerings
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562158
+
+344. youtube_tv
+        The Google network
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562159
+
+345. youtube_tv
+        Resource management
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562160
+
+346. youtube_tv
+        Billing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562161
+
+347. youtube_tv
+        Interacting with Google Cloud
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562162
+
+348. youtube_tv
+        Lab Introduction: Accessing the Cloud console and Cloud Shell
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562163
+
+349. youtube_tv
+        Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562166
+
+350. youtube_tv
+        Containers
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562167
+
+351. youtube_tv
+        Container images
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562168
+
+352. youtube_tv
+        Lab introduction: Working with Cloud Build
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562169
+
+353. youtube_tv
+        Kubernetes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562171
+
+354. youtube_tv
+        Google Kubernetes Engine
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562172
+
+355. youtube_tv
+        Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562174
+
+356. youtube_tv
+        Kubernetes concepts
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562175
+
+357. youtube_tv
+        Kubernetes components
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562176
+
+358. youtube_tv
+        GKE Autopilot and GKE standard
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562177
+
+359. youtube_tv
+        Object management
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562178
+
+360. youtube_tv
+        Lab introduction: Deploying GKE Autopilot Clusters
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562179
+
+361. youtube_tv
+        Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562182
+
+362. youtube_tv
+        The kubectl command
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562183
+
+363. youtube_tv
+        Introspection
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562184
+
+364. youtube_tv
+        Lab introduction: Deploying GKE Autopilot Clusters from Cloud Shell
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562185
+
+365. youtube_tv
+        Course summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562188
+
+366. Video
+        
+      
+
+      
+        
+          
+            Course introduction
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562155
+
+367. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562156
+
+368. Video
+        
+      
+
+      
+        
+          
+            Introduction
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562156
+
+369. Video
+        
+      
+
+      
+        
+          
+            Cloud computing and Google Cloud
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562157
+
+370. Video
+        
+      
+
+      
+        
+          
+            Google Cloud compute offerings
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562158
+
+371. Video
+        
+      
+
+      
+        
+          
+            The Google network
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562159
+
+372. Video
+        
+      
+
+      
+        
+          
+            Resource management
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562160
+
+373. Video
+        
+      
+
+      
+        
+          
+            Billing
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562161
+
+374. Video
+        
+      
+
+      
+        
+          
+            Interacting with Google Cloud
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562162
+
+375. Video
+        
+      
+
+      
+        
+          
+            Lab Introduction: Accessing the Cloud console and Cloud Shell
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562163
+
+376. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562166
+
+377. Video
+        
+      
+
+      
+        
+          
+            Introduction
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562166
+
+378. Video
+        
+      
+
+      
+        
+          
+            Containers
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562167
+
+379. Video
+        
+      
+
+      
+        
+          
+            Container images
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562168
+
+380. Video
+        
+      
+
+      
+        
+          
+            Lab introduction: Working with Cloud Build
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562169
+
+381. Video
+        
+      
+
+      
+        
+          
+            Kubernetes
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562171
+
+382. Video
+        
+      
+
+      
+        
+          
+            Google Kubernetes Engine
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562172
+
+383. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562174
+
+384. Video
+        
+      
+
+      
+        
+          
+            Introduction
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562174
+
+385. Video
+        
+      
+
+      
+        
+          
+            Kubernetes concepts
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562175
+
+386. Video
+        
+      
+
+      
+        
+          
+            Kubernetes components
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562176
+
+387. Video
+        
+      
+
+      
+        
+          
+            GKE Autopilot and GKE standard
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562177
+
+388. Video
+        
+      
+
+      
+        
+          
+            Object management
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562178
+
+389. Video
+        
+      
+
+      
+        
+          
+            Lab introduction: Deploying GKE Autopilot Clusters
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562179
+
+390. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562182
+
+391. Video
+        
+      
+
+      
+        
+          
+            Introduction
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562182
+
+392. Video
+        
+      
+
+      
+        
+          
+            The kubectl command
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562183
+
+393. Video
+        
+      
+
+      
+        
+          
+            Introspection
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562184
+
+394. Video
+        
+      
+
+      
+        
+          
+            Lab introduction: Deploying GKE Autopilot Clusters from Cloud Shell
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562185
+
+395. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562188
+
+396. Video
+        
+      
+
+      
+        
+          
+            Course summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/2/video/562188
+
+397. youtube_tv
+        Course Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533931
+
+398. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533932
+
+399. youtube_tv
+        Need for Google Cloud observability
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533933
+
+400. youtube_tv
+        Cloud Monitoring
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533934
+
+401. youtube_tv
+        Cloud Logging
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533935
+
+402. youtube_tv
+        Error Reporting
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533936
+
+403. youtube_tv
+        Application Performance Management Tools
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533937
+
+404. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533938
+
+405. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533940
+
+406. youtube_tv
+        Monitoring Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533941
+
+407. youtube_tv
+        Cloud Monitoring achitecture patterns
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533942
+
+408. youtube_tv
+        Monitoring multiple projects
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533943
+
+409. youtube_tv
+        Data model and dashboards
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533944
+
+410. youtube_tv
+        Query metrics
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533945
+
+411. youtube_tv
+        Uptime checks
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533946
+
+412. youtube_tv
+        Module summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533948
+
+413. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533950
+
+414. youtube_tv
+        SLI, SLO, and SLA
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533951
+
+415. youtube_tv
+        Developing an alerting strategy
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533952
+
+416. youtube_tv
+        Creating alerts
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533953
+
+417. youtube_tv
+        Service Monitoring
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533955
+
+418. youtube_tv
+        Module summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533957
+
+419. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533959
+
+420. youtube_tv
+        Cloud Logging overview and architecture
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533960
+
+421. youtube_tv
+        Log types and collection
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533961
+
+422. youtube_tv
+        Storing, routing and exporting the logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533962
+
+423. youtube_tv
+        Query and view logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533963
+
+424. youtube_tv
+        Using log-based metrics
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533964
+
+425. youtube_tv
+        Log analytics
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533965
+
+426. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533967
+
+427. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533969
+
+428. youtube_tv
+        Cloud Audit Logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533970
+
+429. youtube_tv
+        Data Access audit logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533971
+
+430. youtube_tv
+        Audit logs entry format
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533972
+
+431. youtube_tv
+        Best practices
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533973
+
+432. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533975
+
+433. youtube_tv
+        Course 1 Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533977
+
+434. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533931
+
+435. Video
+        
+      
+
+      
+        
+          
+            Course Introduction
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533931
+
+436. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533932
+
+437. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533932
+
+438. Video
+        
+      
+
+      
+        
+          
+            Need for Google Cloud observability
+             9 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533933
+
+439. Video
+        
+      
+
+      
+        
+          
+            Cloud Monitoring
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533934
+
+440. Video
+        
+      
+
+      
+        
+          
+            Cloud Logging
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533935
+
+441. Video
+        
+      
+
+      
+        
+          
+            Error Reporting
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533936
+
+442. Video
+        
+      
+
+      
+        
+          
+            Application Performance Management Tools
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533937
+
+443. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533938
+
+444. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533940
+
+445. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533940
+
+446. Video
+        
+      
+
+      
+        
+          
+            Monitoring Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533941
+
+447. Video
+        
+      
+
+      
+        
+          
+            Cloud Monitoring achitecture patterns
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533942
+
+448. Video
+        
+      
+
+      
+        
+          
+            Monitoring multiple projects
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533943
+
+449. Video
+        
+      
+
+      
+        
+          
+            Data model and dashboards
+             9 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533944
+
+450. Video
+        
+      
+
+      
+        
+          
+            Query metrics
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533945
+
+451. Video
+        
+      
+
+      
+        
+          
+            Uptime checks
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533946
+
+452. Video
+        
+      
+
+      
+        
+          
+            Module summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533948
+
+453. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533950
+
+454. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533950
+
+455. Video
+        
+      
+
+      
+        
+          
+            SLI, SLO, and SLA
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533951
+
+456. Video
+        
+      
+
+      
+        
+          
+            Developing an alerting strategy
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533952
+
+457. Video
+        
+      
+
+      
+        
+          
+            Creating alerts
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533953
+
+458. Video
+        
+      
+
+      
+        
+          
+            Service Monitoring
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533955
+
+459. Video
+        
+      
+
+      
+        
+          
+            Module summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533957
+
+460. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533959
+
+461. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533959
+
+462. Video
+        
+      
+
+      
+        
+          
+            Cloud Logging overview and architecture
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533960
+
+463. Video
+        
+      
+
+      
+        
+          
+            Log types and collection
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533961
+
+464. Video
+        
+      
+
+      
+        
+          
+            Storing, routing and exporting the logs
+             9 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533962
+
+465. Video
+        
+      
+
+      
+        
+          
+            Query and view logs
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533963
+
+466. Video
+        
+      
+
+      
+        
+          
+            Using log-based metrics
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533964
+
+467. Video
+        
+      
+
+      
+        
+          
+            Log analytics
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533965
+
+468. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533967
+
+469. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533969
+
+470. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533969
+
+471. Video
+        
+      
+
+      
+        
+          
+            Cloud Audit Logs
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533970
+
+472. Video
+        
+      
+
+      
+        
+          
+            Data Access audit logs
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533971
+
+473. Video
+        
+      
+
+      
+        
+          
+            Audit logs entry format
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533972
+
+474. Video
+        
+      
+
+      
+        
+          
+            Best practices
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533973
+
+475. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533975
+
+476. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533977
+
+477. Video
+        
+      
+
+      
+        
+          
+            Course 1 Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/99/video/533977
+
+478. youtube_tv
+        Course Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515449
+
+479. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515450
+
+480. youtube_tv
+        Introduction to Ops Agent
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515451
+
+481. youtube_tv
+        Non-VM resources
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515452
+
+482. youtube_tv
+        Cloud Operations for GKE
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515453
+
+483. youtube_tv
+        Google Cloud Managed Service for Prometheus
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515454
+
+484. youtube_tv
+        Exposing user-defined metrics
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515455
+
+485. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515457
+
+486. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515459
+
+487. youtube_tv
+        VPC Flow Logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515460
+
+488. youtube_tv
+        Firewall Rules Logging
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515461
+
+489. youtube_tv
+        Load balancer logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515462
+
+490. youtube_tv
+        Cloud NAT Logs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515463
+
+491. youtube_tv
+        Packet Mirroring
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515464
+
+492. youtube_tv
+        Network Intelligence Center
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515465
+
+493. youtube_tv
+        Module summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515467
+
+494. youtube_tv
+        Module Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515469
+
+495. youtube_tv
+        Error Reporting
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515470
+
+496. youtube_tv
+        Trace
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515471
+
+497. youtube_tv
+        Profiler
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515473
+
+498. youtube_tv
+        Module summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515474
+
+499. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515476
+
+500. youtube_tv
+        Costs and pricing
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515477
+
+501. youtube_tv
+        Bill Estimation
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515478
+
+502. youtube_tv
+        Cost Control Best Practices
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515479
+
+503. youtube_tv
+        Module summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515480
+
+504. youtube_tv
+        Course Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515482
+
+505. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515449
+
+506. Video
+        
+      
+
+      
+        
+          
+            Course Introduction
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515449
+
+507. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515450
+
+508. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515450
+
+509. Video
+        
+      
+
+      
+        
+          
+            Introduction to Ops Agent
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515451
+
+510. Video
+        
+      
+
+      
+        
+          
+            Non-VM resources
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515452
+
+511. Video
+        
+      
+
+      
+        
+          
+            Cloud Operations for GKE
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515453
+
+512. Video
+        
+      
+
+      
+        
+          
+            Google Cloud Managed Service for Prometheus
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515454
+
+513. Video
+        
+      
+
+      
+        
+          
+            Exposing user-defined metrics
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515455
+
+514. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515457
+
+515. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515459
+
+516. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515459
+
+517. Video
+        
+      
+
+      
+        
+          
+            VPC Flow Logs
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515460
+
+518. Video
+        
+      
+
+      
+        
+          
+            Firewall Rules Logging
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515461
+
+519. Video
+        
+      
+
+      
+        
+          
+            Load balancer logs
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515462
+
+520. Video
+        
+      
+
+      
+        
+          
+            Cloud NAT Logs
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515463
+
+521. Video
+        
+      
+
+      
+        
+          
+            Packet Mirroring
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515464
+
+522. Video
+        
+      
+
+      
+        
+          
+            Network Intelligence Center
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515465
+
+523. Video
+        
+      
+
+      
+        
+          
+            Module summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515467
+
+524. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515469
+
+525. Video
+        
+      
+
+      
+        
+          
+            Module Introduction
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515469
+
+526. Video
+        
+      
+
+      
+        
+          
+            Error Reporting
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515470
+
+527. Video
+        
+      
+
+      
+        
+          
+            Trace
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515471
+
+528. Video
+        
+      
+
+      
+        
+          
+            Profiler
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515473
+
+529. Video
+        
+      
+
+      
+        
+          
+            Module summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515474
+
+530. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515476
+
+531. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515476
+
+532. Video
+        
+      
+
+      
+        
+          
+            Costs and pricing
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515477
+
+533. Video
+        
+      
+
+      
+        
+          
+            Bill Estimation
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515478
+
+534. Video
+        
+      
+
+      
+        
+          
+            Cost Control Best Practices
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515479
+
+535. Video
+        
+      
+
+      
+        
+          
+            Module summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515480
+
+536. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515482
+
+537. Video
+        
+      
+
+      
+        
+          
+            Course Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/864/video/515482
+
+538. youtube_tv
+        Course Introduction
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508936
+
+539. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508937
+
+540. youtube_tv
+        Infrastructure as Code
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508938
+
+541. youtube_tv
+        Terraform Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508939
+
+542. youtube_tv
+        Using Terraform
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508940
+
+543. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508942
+
+544. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+
+545. youtube_tv
+        Terraform Configurations and the HashiCorp Language
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508944
+
+546. youtube_tv
+        Author Phase Terms and Concepts
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508945
+
+547. youtube_tv
+        Terraform Commands
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508946
+
+548. youtube_tv
+        The Terraform Validator
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508947
+
+549. youtube_tv
+        Demo - Terraform Workflow
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508948
+
+550. youtube_tv
+        Lab Intro: Infrastructure as Code with Terraform
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508949
+
+551. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508952
+
+552. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508953
+
+553. youtube_tv
+        Introduction to Resources
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508954
+
+554. youtube_tv
+        Meta-arguments for Resources
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508955
+
+555. youtube_tv
+        Resource Dependencies
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508956
+
+556. youtube_tv
+        Variables
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508957
+
+557. youtube_tv
+        Variables Best Practices
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508958
+
+558. youtube_tv
+        Output Values
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508959
+
+559. youtube_tv
+        Terraform Registry and Cloud Foundation Toolkit
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508960
+
+560. youtube_tv
+        Lab Intro: Creating Resource Dependencies with Terraform
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508961
+
+561. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508964
+
+562. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508965
+
+563. youtube_tv
+        Introduction to Terraform Modules
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508966
+
+564. youtube_tv
+        Modules use cases and benefits
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508967
+
+565. youtube_tv
+        Reuse Configurations with Modules
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508968
+
+566. youtube_tv
+        Variables and Outputs
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508969
+
+567. youtube_tv
+        Best Practices and a Real Time Scenario
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508970
+
+568. youtube_tv
+        Lab Intro: Automating the Deployment of Infrastructure Using Terraform
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508971
+
+569. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508974
+
+570. youtube_tv
+        Module Overview
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508975
+
+571. youtube_tv
+        Introduction to Terraform State
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508976
+
+572. youtube_tv
+        Storing State Files
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508977
+
+573. youtube_tv
+        Terraform State Best Practices
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508978
+
+574. youtube_tv
+        Lab Intro: Creating a Remote Backend
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508979
+
+575. youtube_tv
+        Module Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508982
+
+576. youtube_tv
+        Course Summary
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508983
+
+577. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508936
+
+578. Video
+        
+      
+
+      
+        
+          
+            Course Introduction
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508936
+
+579. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508937
+
+580. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508937
+
+581. Video
+        
+      
+
+      
+        
+          
+            Infrastructure as Code
+             7 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508938
+
+582. Video
+        
+      
+
+      
+        
+          
+            Terraform Overview
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508939
+
+583. Video
+        
+      
+
+      
+        
+          
+            Using Terraform
+             5 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508940
+
+584. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508942
+
+585. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+
+586. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+
+587. Video
+        
+      
+
+      
+        
+          
+            Terraform Configurations and the HashiCorp Language
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508944
+
+588. Video
+        
+      
+
+      
+        
+          
+            Author Phase Terms and Concepts
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508945
+
+589. Video
+        
+      
+
+      
+        
+          
+            Terraform Commands
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508946
+
+590. Video
+        
+      
+
+      
+        
+          
+            The Terraform Validator
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508947
+
+591. Video
+        
+      
+
+      
+        
+          
+            Demo - Terraform Workflow
+             8 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508948
+
+592. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Infrastructure as Code with Terraform
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508949
+
+593. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508952
+
+594. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508953
+
+595. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508953
+
+596. Video
+        
+      
+
+      
+        
+          
+            Introduction to Resources
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508954
+
+597. Video
+        
+      
+
+      
+        
+          
+            Meta-arguments for Resources
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508955
+
+598. Video
+        
+      
+
+      
+        
+          
+            Resource Dependencies
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508956
+
+599. Video
+        
+      
+
+      
+        
+          
+            Variables
+             6 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508957
+
+600. Video
+        
+      
+
+      
+        
+          
+            Variables Best Practices
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508958
+
+601. Video
+        
+      
+
+      
+        
+          
+            Output Values
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508959
+
+602. Video
+        
+      
+
+      
+        
+          
+            Terraform Registry and Cloud Foundation Toolkit
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508960
+
+603. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Creating Resource Dependencies with Terraform
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508961
+
+604. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508964
+
+605. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508965
+
+606. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508965
+
+607. Video
+        
+      
+
+      
+        
+          
+            Introduction to Terraform Modules
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508966
+
+608. Video
+        
+      
+
+      
+        
+          
+            Modules use cases and benefits
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508967
+
+609. Video
+        
+      
+
+      
+        
+          
+            Reuse Configurations with Modules
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508968
+
+610. Video
+        
+      
+
+      
+        
+          
+            Variables and Outputs
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508969
+
+611. Video
+        
+      
+
+      
+        
+          
+            Best Practices and a Real Time Scenario
+             3 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508970
+
+612. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Automating the Deployment of Infrastructure Using Terraform
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508971
+
+613. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508974
+
+614. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508975
+
+615. Video
+        
+      
+
+      
+        
+          
+            Module Overview
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508975
+
+616. Video
+        
+      
+
+      
+        
+          
+            Introduction to Terraform State
+             2 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508976
+
+617. Video
+        
+      
+
+      
+        
+          
+            Storing State Files
+             4 minutes
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508977
+
+618. Video
+        
+      
+
+      
+        
+          
+            Terraform State Best Practices
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508978
+
+619. Video
+        
+      
+
+      
+        
+          
+            Lab Intro: Creating a Remote Backend
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508979
+
+620. Video
+        
+      
+
+      
+        
+          
+            Module Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508982
+
+621. 
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508983
+
+622. Video
+        
+      
+
+      
+        
+          
+            Course Summary
+             1 minute
+   Course: Billy Gibendi
+   URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508983
+
