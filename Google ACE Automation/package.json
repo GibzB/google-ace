@@ -10,7 +10,12 @@
     "report": "playwright show-report",
     "install:browsers": "playwright install",
     "complete:videos": "playwright test complete_videos.spec.js",
-    "complete:all": "playwright test complete-modules.spec.ts"
+    "complete:all": "playwright test complete-modules.spec.ts",
+    "complete:course2": "playwright test complete-course-2-videos.spec.ts",
+    "complete:videos": "playwright test complete-all-videos.spec.ts",
+    "check:modules": "playwright test enhanced-module-checker.spec.ts",
+    "check:specific": "playwright test check-specific-module.spec.ts",
+    "scrape:titles": "playwright test scrape-module-info.spec.ts"
   },
   "keywords": ["automation", "google-cloud", "playwright", "education"],
   "author": "Your Name",

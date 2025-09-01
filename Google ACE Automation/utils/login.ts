@@ -17,7 +17,7 @@ export async function login(page: Page) {
   await page.getByRole('textbox', { name: 'Password' }).fill(process.env.PASSWORD || '');
   await page.getByRole('button', { name: 'Sign in', exact: true }).click();
   
-  await page.waitForURL('https://partner.cloudskillsboost.google/dashboard', { timeout: 60000 });
+  await page.waitForURL(/partner\.cloudskillsboost\.google\/(dashboard|$)/, { timeout: 60000 });
   await page.waitForLoadState('networkidle');
   console.log('Successfully logged in');
 }
