@@ -3,7 +3,8 @@ import { login } from '../utils/login';
 import * as fs from 'fs';
 
 test.describe('Complete Videos from Drawer', () => {
-  test('complete all videos using course drawer', { timeout: 300000 }, async ({ page }) => {
+  test('complete all videos using course drawer', async ({ page }) => {
+    test.setTimeout(600000); // 10 minutes
     await login(page);
     
     const fileContent = fs.readFileSync('videos.txt', 'utf-8');
@@ -36,21 +37,23 @@ test.describe('Complete Videos from Drawer', () => {
           
           console.log(`Found ${videoActivities.length} incomplete videos`);
           
-          // Process videos in batches to avoid timeout
-          const batchSize = 10;
+          // Process videos in smaller batches
+          const batchSize = 5;
           for (let i = 0; i < videoActivities.length; i += batchSize) {
             const batch = videoActivities.slice(i, i + batchSize);
             console.log(`Processing batch ${Math.floor(i/batchSize) + 1}/${Math.ceil(videoActivities.length/batchSize)}`);
             
             for (const video of batch) {
               try {
-                await page.goto(`https://partner.cloudskillsboost.google${video.href}`, { timeout: 15000 });
+                await page.goto(`https://partner.cloudskillsboost.google${video.href}`, { timeout: 30000 });
                 await page.waitForLoadState('domcontentloaded');
                 
                 const completeBtn = page.getByRole('button', { name: 'Mark as Completed' });
-                if (await completeBtn.isVisible({ timeout: 2000 })) {
-                  await completeBtn.click();
+                if (await completeBtn.isVisible({ timeout: 10000 })) {
+                  await completeBtn.click({ timeout: 10000 });
                   console.log(`✅ Completed: ${video.title}`);
+                } else {
+                  console.log(`⏭️ No complete button: ${video.title}`);
                 }
                 
                 await page.waitForTimeout(200);
