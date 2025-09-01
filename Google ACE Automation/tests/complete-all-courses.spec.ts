@@ -34,38 +34,41 @@ test.describe('Complete All Courses', () => {
       
       await page.waitForTimeout(2000);
       
-      // Find all incomplete videos
-      const videos = page.locator('ql-course-outline a[href*="/video/"]:not([data-complete="true"])');
-      const videoCount = await videos.count();
+      // Complete videos one by one
+      let completedCount = 0;
       
-      console.log(`Found ${videoCount} incomplete videos in course ${courseId}`);
-      
-      for (let i = 0; i < videoCount; i++) {
+      while (true) {
+        const videos = page.locator('ql-course-outline a[href*="/video/"]:not([data-complete="true"])');
+        const videoCount = await videos.count();
+        
+        if (videoCount === 0) {
+          console.log(`✅ All videos completed in course ${courseId}`);
+          break;
+        }
+        
         try {
-          const video = videos.nth(i);
+          const video = videos.first();
           await video.click({ force: true });
           
           await page.waitForSelector('h1', { timeout: 15000 });
-          await page.waitForTimeout(Math.random() * 1000 + 500);
+          await page.waitForTimeout(500);
           
           const completeBtn = page.getByRole('button', { name: 'Mark as Completed' });
           if (await completeBtn.isVisible()) {
-            await completeBtn.scrollIntoViewIfNeeded();
-            await page.waitForTimeout(300);
             await completeBtn.click();
-            console.log(`✅ Completed video ${i + 1} in course ${courseId}`);
+            completedCount++;
+            console.log(`✅ Completed video ${completedCount} in course ${courseId}`);
             await page.waitForTimeout(1000);
           }
           
           await page.goBack();
-          await page.waitForTimeout(Math.random() * 1000 + 500);
+          await page.waitForTimeout(1000);
         } catch (e) {
-          console.log(`❌ Failed video ${i + 1} in course ${courseId}: ${e.message}`);
+          console.log(`❌ Failed video in course ${courseId}: ${e.message}`);
           if (e.message.includes('Target page, context or browser has been closed')) {
-            console.log('Page closed, stopping video processing');
             return;
           }
-          continue;
+          break;
         }
       }
       

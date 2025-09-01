@@ -15,6 +15,8 @@
     "complete:videos": "playwright test complete-all-videos.spec.ts",
     "complete:human": "playwright test user-like-completion.spec.ts",
     "complete:all-courses": "playwright test complete-all-courses.spec.ts",
+    "complete:urls": "playwright test complete-from-urls.spec.ts",
+    "complete:drawer": "playwright test complete-drawer-videos.spec.ts",
     "check:modules": "playwright test enhanced-module-checker.spec.ts",
     "check:specific": "playwright test check-specific-module.spec.ts",
     "scrape:titles": "playwright test scrape-module-info.spec.ts"
