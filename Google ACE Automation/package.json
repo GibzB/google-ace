@@ -17,6 +17,12 @@
     "complete:all-courses": "playwright test complete-all-courses.spec.ts",
     "complete:urls": "playwright test complete-from-urls.spec.ts",
     "complete:drawer": "playwright test complete-drawer-videos.spec.ts",
+    "resume:completion": "playwright test resume-completion.spec.ts",
+    "single:course": "playwright test single-course.spec.ts",
+    "sequential:courses": "playwright test sequential-courses.spec.ts",
+    "robust:completion": "playwright test robust-completion.spec.ts",
+    "simple:completion": "playwright test simple-completion.spec.ts",
+    "track:failures": "playwright test track-failures.spec.ts",
     "check:modules": "playwright test enhanced-module-checker.spec.ts",
     "check:specific": "playwright test check-specific-module.spec.ts",
     "scrape:titles": "playwright test scrape-module-info.spec.ts"

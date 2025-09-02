@@ -1,8 +1,1 @@
-https://www.cloudskillsboost.google/paths/69/course_templates/50/video/578265
-https://www.cloudskillsboost.google/paths/69/course_templates/178/video/567824
-https://www.cloudskillsboost.google/paths/69/course_templates/49/video/548388
-https://www.cloudskillsboost.google/paths/69/course_templates/50/video/578266
-https://www.cloudskillsboost.google/paths/69/course_templates/49/video/548388
-https://www.cloudskillsboost.google/paths/69/course_templates/2/video/562167
-https://www.cloudskillsboost.google/paths/69/course_templates/99/video/533933
-https://www.cloudskillsboost.google/paths/69/course_templates/864/video/515451
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943

@@ -1,0 +1,230 @@
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Overview
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Terraform Configurations and the HashiCorp Language
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508944
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Author Phase Terms and Concepts
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508945
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Terraform Commands
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508946
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: The Terraform Validator
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508947
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Demo - Terraform Workflow
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508948
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Lab Intro: Infrastructure as Code with Terraform
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508949
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Summary
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508952
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Overview
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508953
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Introduction to Resources
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508954
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Meta-arguments for Resources
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508955
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Resource Dependencies
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508956
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Variables
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508957
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Variables Best Practices
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508958
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Output Values
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508959
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Terraform Registry and Cloud Foundation Toolkit
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508960
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Lab Intro: Creating Resource Dependencies with Terraform
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508961
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Summary
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508964
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Overview
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508965
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Introduction to Terraform Modules
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508966
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Modules use cases and benefits
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508967
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Reuse Configurations with Modules
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508968
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Variables and Outputs
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508969
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Best Practices and a Real Time Scenario
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508970
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Lab Intro: Automating the Deployment of Infrastructure Using Terraform
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508971
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Summary
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508974
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Overview
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508975
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Introduction to Terraform State
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508976
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Storing State Files
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508977
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Terraform State Best Practices
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508978
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Lab Intro: Creating a Remote Backend
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508979
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Module Summary
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508982
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
+
+https://www.cloudskillsboost.google/paths/69/course_templates/443/video/508943
+  Video: Course Summary
+  URL: https://partner.cloudskillsboost.google/paths/69/course_templates/443/video/508983
+  Error: locator.click: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'M
