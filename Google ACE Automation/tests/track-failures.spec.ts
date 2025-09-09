@@ -16,11 +16,7 @@ test.describe('Track Failed Videos', () => {
       const url = videoUrls[courseIndex];
       console.log(`\n🎯 Course ${courseIndex + 1}/${videoUrls.length}: ${url}`);
       
-      // Skip course 178
-      if (url.includes('course_templates/178')) {
-        console.log('✅ Course 178 already completed, skipping...');
-        continue;
-      }
+
       
       try {
         await page.goto(url, { timeout: 30000 });

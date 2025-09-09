@@ -4,7 +4,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 export async function login(page: Page) {
-  await page.goto('https://partner.cloudskillsboost.google/', { waitUntil: 'networkidle' });
+  await page.goto('https://partner.cloudskillsboost.google/', { waitUntil: 'domcontentloaded' });
   
   try {
     await page.getByRole('button', { name: 'Agree' }).click();
@@ -18,6 +18,6 @@ export async function login(page: Page) {
   await page.getByRole('button', { name: 'Sign in', exact: true }).click();
   
   await page.waitForURL(/partner\.cloudskillsboost\.google\/(dashboard|$)/, { timeout: 60000 });
-  await page.waitForLoadState('networkidle');
+  await page.waitForLoadState('domcontentloaded');
   console.log('Successfully logged in');
 }

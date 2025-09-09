@@ -25,7 +25,10 @@
     "track:failures": "playwright test track-failures.spec.ts",
     "check:modules": "playwright test enhanced-module-checker.spec.ts",
     "check:specific": "playwright test check-specific-module.spec.ts",
-    "scrape:titles": "playwright test scrape-module-info.spec.ts"
+    "scrape:titles": "playwright test scrape-module-info.spec.ts",
+    "debug:video": "playwright test debug-video.spec.ts --headed",
+    "improved:completion": "playwright test improved-completion.spec.ts --headed",
+    "verify:completion": "playwright test verify-completion.spec.ts --headed"
   },
   "keywords": ["automation", "google-cloud", "playwright", "education"],
   "author": "Your Name",
