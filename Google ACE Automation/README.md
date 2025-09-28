@@ -41,41 +41,54 @@ PASSWORD=your-password
 
 ## Execution Commands
 
-### Complete Videos
+### Complete Videos (Recommended)
+```bash
+npm run fixed:completion
+```
+Completes all videos with cookie handling and improved error handling.
+
+### Alternative Completion Methods
+```bash
+npm run complete:drawer
+```
+Completes videos using course drawer extraction.
+
+```bash
+npm run improved:completion
+```
+Improved completion with multiple button selectors.
+
+```bash
+npm run track:failures
+```
+Tracks failed videos and saves to failed-videos.txt.
+
+### Debug and Verification
+```bash
+npm run debug:video
+```
+Debug specific video completion.
+
+```bash
+npm run debug:buttons
+```
+Check what buttons exist on video pages.
+
+```bash
+npm run verify:completion
+```
+Verify course completion status.
+
+### Legacy Commands
 ```bash
 npm run complete:videos
 ```
 Marks all videos in course template 2 as completed.
 
-### Check Module Status
 ```bash
 npm run check:modules
 ```
 Checks completion status of all modules.
-
-### Check Specific Module
-```bash
-npm run check:specific
-```
-Checks course template 2 module specifically.
-
-### Update Module Titles
-```bash
-npm run scrape:titles
-```
-Updates modules.json with proper module titles.
-
-### Complete All Modules
-```bash
-npm run complete:all
-```
-Processes and completes all modules from JSON.
-
-### Run with UI
-```bash
-npm run test:headed
-```
-Runs tests with browser UI visible.
 
 ### View Reports
 ```bash
@@ -86,10 +99,12 @@ Opens Playwright test report.
 ## How It Works
 
 1. **Login**: Authenticates using credentials from `.env`
-2. **Navigation**: Goes to specific course/video URLs
-3. **Completion**: Clicks "Mark as Completed" buttons
-4. **Progress**: Logs completion status for each item
-5. **Error Handling**: Continues execution if individual items fail
+2. **Course Processing**: Reads URLs from `videos.txt`
+3. **Module Extraction**: Parses JSON from course outline to find incomplete videos
+4. **Cookie Handling**: Automatically handles cookie consent popups
+5. **Video Completion**: Clicks "Mark as Completed" buttons using multiple selectors
+6. **Error Handling**: Continues execution if individual items fail
+7. **Progress Tracking**: Logs completion status and saves failed videos
 
 ## Course Template 2 Structure
 
