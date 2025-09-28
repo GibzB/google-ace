@@ -45,7 +45,8 @@ test.describe('Complete Videos from Drawer', () => {
             
             for (const video of batch) {
               try {
-                await page.goto(`https://partner.cloudskillsboost.google${video.href}`, { timeout: 30000 });
+                const videoUrl = video.href.startsWith('http') ? video.href : `https://partner.cloudskillsboost.google${video.href}`;
+                await page.goto(videoUrl, { timeout: 30000 });
                 await page.waitForLoadState('domcontentloaded');
                 
                 const completeBtn = page.getByRole('button', { name: 'Mark as Completed' });
