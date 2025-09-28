@@ -30,7 +30,8 @@
     "improved:completion": "playwright test improved-completion.spec.ts --headed",
     "verify:completion": "playwright test verify-completion.spec.ts --headed",
     "debug:buttons": "playwright test debug-buttons.spec.ts --headed",
-    "fixed:completion": "playwright test fixed-completion.spec.ts --headed"
+    "fixed:completion": "playwright test fixed-completion.spec.ts --headed",
+    "fixed:headless": "playwright test fixed-completion.spec.ts"
   },
   "keywords": ["automation", "google-cloud", "playwright", "education"],
   "author": "Your Name",
