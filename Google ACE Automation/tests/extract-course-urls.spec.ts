@@ -1,6 +1,9 @@
 import { test } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
+import * as dotenv from 'dotenv';
+
+dotenv.config();
 
 test('Extract course URLs', async ({ page }) => {
   // Login
@@ -14,7 +17,7 @@ test('Extract course URLs', async ({ page }) => {
   });
   await page.waitForTimeout(1000);
   
-  await page.evaluate(({ email, password }) => {
+  await page.evaluate(({ email, password }: { email: string; password: string }) => {
     const emailField = document.querySelector('md-outlined-text-field[name="user[email]"]');
     const emailInput = emailField?.shadowRoot?.querySelector('input');
     if (emailInput) {
@@ -30,8 +33,7 @@ test('Extract course URLs', async ({ page }) => {
       passwordInput.dispatchEvent(new Event('input', { bubbles: true }));
       passwordInput.dispatchEvent(new Event('change', { bubbles: true }));
     }
-  }, { email: 'billy.gibendi@kitstek.com', password: 'Kitsilano2025' });
-  
+  }, { email: process.env.EMAIL || '', password: process.env.PASSWORD || '' });  
   await page.waitForTimeout(500);
   
   await page.evaluate(() => {
@@ -69,7 +71,7 @@ test('Extract course URLs', async ({ page }) => {
         if (element) return element;
 
         const elementsWithShadow = root.querySelectorAll('*');
-        for (const el of elementsWithShadow) {
+        for (const el of Array.from(elementsWithShadow)) {
           if (el.shadowRoot) {
             element = findElementInShadowDOM(el.shadowRoot, selector);
             if (element) return element;
@@ -84,10 +86,10 @@ test('Extract course URLs', async ({ page }) => {
       const modulesAttr = contentsMenu.getAttribute('modules');
       if (!modulesAttr) throw new Error('Could not find modules attribute');
 
-      const moduleData = JSON.parse(modulesAttr);
+      const moduleData = JSON.parse(modulesAttr) as any;
       const results: Array<{ url: string, title: string, type: string, isComplete: boolean }> = [];
 
-      for (const module of moduleData) {
+      for (const module of moduleData as any[]) {
         if (module.steps) {
           for (const step of module.steps) {
             if (step.activities) {
