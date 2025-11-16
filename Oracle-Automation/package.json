@@ -1,0 +1,27 @@
+{
+  "name": "oracle-automation",
+  "version": "1.0.0",
+  "description": "Automated Oracle course completion tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "install:browsers": "playwright install",
+    "complete:courses": "playwright test complete-courses.spec.ts --headed",
+    "complete:specific": "playwright test specific-courses.spec.ts --headed",
+    "complete:ai-foundations": "playwright test oracle-ai-foundations.spec.ts --headed",
+    "complete:videos-fast": "playwright test complete-videos-fast.spec.ts --headed",
+    "simple:complete": "playwright test simple-complete.spec.ts --headed",
+    "debug:login": "playwright test debug-login.spec.ts --headed",
+    "login:test": "playwright test login-test.spec.ts --headed"
+  },
+  "keywords": ["automation", "oracle", "playwright", "education"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "dotenv": "^16.0.0"
+  }
+}

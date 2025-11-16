@@ -1,0 +1,1250 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "Pc0SM4UssVYAcUOyMvgwMzNuBnOSIRTucTCnlyPBRCA-1758173064-1.0.1.1-.LNrNM1UXPXBjsWjwiUofVjoIrm3P2e7Q5JHxZVrDeP3.Ge6B.Vu_Sba6C5BZp75jxNE.ETp968c65qhuCxa.lEsPp_pjqt3zFWctAmK7deNWUKI.W1o9LrU1_5H3Yg5",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758174864.709283,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "240d620b-d9d9-4860-abb2-6d5f52b64a94",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710338,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1758173067018.52584353193122162",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1765950334,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "guest_id_marketing",
+      "value": "v1%3A175817306694674684",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1792733067.04332,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "v1%3A175817306694674684",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1792733067.043347,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id",
+      "value": "v1%3A175817306694674684",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1792733067.043371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_priMLdtbwRJg6ByhzjGInQ==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1792733067.147709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc_ads",
+      "value": "442f91ad-1a8a-41b2-93f2-93304be6fb87",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1792733067.263007,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_r",
+      "value": "_",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789709067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_sr",
+      "value": "_",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758176132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_lu",
+      "value": "https://auth.udacity.com/sign-in",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789709067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_slu",
+      "value": "https://auth.udacity.com/sign-in",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758176132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ps_fva",
+      "value": "1758173067273",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789709067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmhT_74bWJfpi0xhBN3brFkshPVE3ZqKSC6QHuSlzf6bZ28duVJpCmwdlHV",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1792733067.39241,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "suid",
+      "value": "9303836131F041EB825560AD58883460",
+      "domain": ".simpli.fi",
+      "path": "/",
+      "expires": 1789795467.461787,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST08:s=O:r=O:a=O:p=O:g=3310:u=1:x=1:i=1758173067:t=1758259467:v=2:sig=AQFI0URudc8BSAMGbSV6NrFBqateacJE\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1758259467.565817,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid_syncd_secure",
+      "value": "true",
+      "domain": ".simpli.fi",
+      "path": "/",
+      "expires": 1758777867.668824,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "fbaffa76-46dd-42e9-a1a0-2d3e5d2254a9",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1765950333.257496,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQIp2bOkLNqp7QAAAZlbR_opGPfM1tN15sUyeF08T8GNjUbEnmTt2w7xOukEGRnHb67A2qIWztMqfg",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1760765067.840901,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQIvvGwARlAoTAAAAZlbR_opTbUWi2HcdAbKB9oY-0qp8UKawfjhrm_FbLAtqqFh-Osp2C7TG27Edr5ssEIACw",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1760765067.840921,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&1c3cb540-1e65-46b9-8cbc-9753a9c2f5bc\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1789710334.257533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "trackalyzer",
+      "value": "ls76fb96-e061-46ea-93fb-f81f0959b72d",
+      "domain": "lltrck.com",
+      "path": "/",
+      "expires": 1789710335.11002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20250918052428c150cd32-1b08-4ad2-89f6-cdd552ff744cAQGuMQFcDtwDW1UeK7n-1nWOGfTEkR77\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1789709068.371247,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "d7TBjAGO8eutSgRhcitn8ENWMBERtwFUDgGnNm7Lg.8-1758173068-1.0.1.1-QSkuPsw2kHPtHVXTDw2L3ZB.3sutihXDIDRzlaWYsjtlvb6V8MJXM9HE8Qdo7ZWACVE57HLsg347hcWNbfx8G.EsEEsWMkaIPcM3tbSPkQg",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1758174868.372135,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1758173068518",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1763357068.746247,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "f4395b99-3de6-45eb-8c4a-713128c31293",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1763357068.746369,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "283210bc-daf9-4b33-b39f-38963ba7b242|1758173068",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1789709068.645469,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "wiKbS29bmmRjDLWXBgSq0Hf3sXbtUe48uziWcf3-LnhhBd0c3XhMuHNRZIfdQ-4nntoCxJy6HehEEUX042tP9ifdqpR-3CuzNwQWR-LFJUg.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1765949070.846073,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://udacity.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "uuid2",
+      "value": "8264363568416700266",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1765949070.846364,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1763357068.746419,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SCM",
+      "value": "b1bb34800c",
+      "domain": ".smaato.net",
+      "path": "/",
+      "expires": 1759987468.774956,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SCM1001136",
+      "value": "b1bb34800c",
+      "domain": ".smaato.net",
+      "path": "/",
+      "expires": 1759987468.775001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SCMsas",
+      "value": "b1bb34800c",
+      "domain": ".smaato.net",
+      "path": "/",
+      "expires": 1759987468.775023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ljt_reader",
+      "value": "LWwkAQZHAzw56w2-RS-Bud6O",
+      "domain": ".lijit.com",
+      "path": "/",
+      "expires": 1789709068.949092,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "value": "%7B%22rx_uuid%22%3A%22RX-79799932-2be7-416c-9382-d86d813bdc87-005%22%7D",
+      "domain": ".1rx.io",
+      "path": "/",
+      "expires": 1789709068.800973,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mako_uid",
+      "value": "1995b47fe31-365e0000010f4299",
+      "domain": ".eyeota.net",
+      "path": "/",
+      "expires": 1789709068.812898,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4.FE:2jUF']wIg2C%umSTbt!@wnfH8KW.dG5<#Z0s#VCz3:kEs_$IErk-6qAAA9G51EAp`N><D>@ybEl$M/Mghd>%(2K:$doS]%6lNeB</)]",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1765949068.849486,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|42lworYjH4r0O0Oz3aMqpes+0kt6+uqBOzrDRt57kRVtIAiYZLWc5tdiBTXIXZTx9QXpWA2vg3qM1KxoLazIt04KBbjzRD/Y5dDZuxGLGk99meqmlj5W05c3ZJHj0SOxsk6HO1JsnjcBzWrik/WM0yzaUQgrAX6TSpxNqhhzGypRm99a3bMoP35/bkYCLFZe",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1789709068.877984,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://udacity.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MFOYUMB9-10-5I9J",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1789709068.878135,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MFOYUMB9-10-5I9J",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1789709068.878177,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://udacity.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|42lworYjH4r0O0Oz3aMqpes+0kt6+uqBOzrDRt57kRVtIAiYZLWc5tdiBTXIXZTx9QXpWA2vg3qM1KxoLazIt04KBbjzRD/Y5dDZuxGLGk99meqmlj5W05c3ZJHj0SOxsk6HO1JsnjcBzWrik/WM0yzaUQgrAX6TSpxNqhhzGypRm99a3bMoP35/bkYCLFZe",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1789709068.878219,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1765949068.878263,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://udacity.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "tluidp",
+      "value": "4415755722047929385475",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1765949069.151791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://udacity.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "tluid",
+      "value": "4415755722047929385475",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1765949069.151895,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ljtrtb_2",
+      "value": "9303836131F041EB825560AD58883460",
+      "domain": ".lijit.com",
+      "path": "/",
+      "expires": 1789709068.948943,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_dc",
+      "value": "1",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1781499959.986617,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "583074f7862c8b61e1ae6bba5d4f7365",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1781499959.986811,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rlas3",
+      "value": "UGcDJEny4mTPpiImy9MTl3q0oobGPq/jKbXwgxqw/H8=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1789709069.120897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CI2vrsYGEgUI6AcQABIFCOhHEAA=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1763357069.121028,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "1185735935986017528",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1765949070.26377,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "value": "ok",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1792387470.263838,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "value": "133:b1bb34800c",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1760765070.264086,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__141_cid",
+      "value": "9303836131F041EB825560AD58883460",
+      "domain": ".bfmio.com",
+      "path": "/",
+      "expires": 1789709069.359942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__141_exp",
+      "value": "1",
+      "domain": ".bfmio.com",
+      "path": "/",
+      "expires": 1758777869.360082,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__io_cid",
+      "value": "0c60ecf217f16788d683ac66481a02bd4ecc09e0",
+      "domain": ".bfmio.com",
+      "path": "/",
+      "expires": 1789709069.360108,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did",
+      "value": "CW9kzCMb_FviZOos",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1789709069.586683,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "didts",
+      "value": "1758173069",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1789709069.586834,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "nnls",
+      "value": "",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1763357069.586892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CAA=",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1763357069.586981,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "value": "%7B%22rx_uuid%22%3A%22RX-79799932-2be7-416c-9382-d86d813bdc87-005%22%7D",
+      "domain": ".targeting.unrulymedia.com",
+      "path": "/",
+      "expires": 1789709069.764742,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anHistory",
+      "value": "\"-3csw90qujmjd+2+!#7')$w!SPv\"",
+      "domain": ".pro-market.net",
+      "path": "/",
+      "expires": 1760765071.302065,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "8617938448859622589",
+      "domain": ".turn.com",
+      "path": "/",
+      "expires": 1773725070.807886,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "everest_g_v2",
+      "value": "g_surferid~aMuXjgALH-fPUQBQ",
+      "domain": ".everesttech.net",
+      "path": "/",
+      "expires": 1789709070.432128,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBI6Xy2gCEA7syobfcVS-vQIG4aSF1gsFEgEBAQHpzGjVaGTUyyMA_eMCAA&S=AQAAAnA1PfpPGXpPgAFefMBwh1w",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1789730670.979025,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDSYNC",
+      "value": "19ba~2rit",
+      "domain": ".analytics.yahoo.com",
+      "path": "/",
+      "expires": 1789709070.978853,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anProfile",
+      "value": "\"-3csw90qujmjd+1+4=5u+1f=1+1g=1+1j=57:1:3s+rs=s+rt=298BAB3F+s0=(78)+s2=(t2rr0t)+vm=24-9303836131F041EB825560AD58883460:81-y-GBRxVMhE2pTf_qoQBKyeS205bVnH9tMWjpo-%7EA\"",
+      "domain": ".pro-market.net",
+      "path": "/",
+      "expires": 1773725071.30194,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "65a3b265-0341-4036-aa10-721d5a1ec099",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1789709071.98975,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAEYBSABKAIyCwjwkomMzJ-7PhAFOAE.",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1789709071.990007,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "addshoppers.com",
+      "value": "2%7C1%3A0%7C10%3A1758173244%7C15%3Aaddshoppers.com%7C44%3AZmJhNTg3NmQ1NGRmNGZlNzk5MTFjYjFhZWY0NGUwYTY%3D%7Ced4a54d7724a7ff564e74a0488ce3702ac3df8cd5364788c608bf5987a14d034",
+      "domain": "auth.udacity.com",
+      "path": "/",
+      "expires": 1792733244.537941,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_user_id",
+      "value": "1206988551",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710338,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "active_subscription_cookie",
+      "value": "false",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758259650.769667,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "team_learner_cookie",
+      "value": "false",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758259650.769784,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "focused_experience",
+      "value": "false",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758778050.769837,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "should_ask_welcome_flow",
+      "value": "false",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789709250.770145,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NEXT_LOCALE",
+      "value": "en-US",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789709250.7703,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_type",
+      "value": "enterprise",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758778050.770378,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "enterprise_affiliations",
+      "value": "[{\"id\":\"2187\",\"slug\":\"aws-ai--ml-scholars-connect\",\"usesWwwCatalog\":true},{\"id\":\"2149\",\"slug\":\"aws-ai--ml-challenge\",\"usesWwwCatalog\":true},{\"id\":\"549\",\"slug\":\"oneten-scholarship\",\"usesWwwCatalog\":true},{\"id\":\"1639\",\"slug\":\"aws-esperanza\",\"usesWwwCatalog\":true},{\"id\":\"1628\",\"slug\":\"alg\",\"usesWwwCatalog\":true},{\"id\":\"1685\",\"slug\":\"olx-scholarship\",\"usesWwwCatalog\":true},{\"id\":\"1\",\"slug\":\"scholarships\",\"usesWwwCatalog\":false}]",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758259650.770432,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "viewer_currency",
+      "value": "USD",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1142974578.1758173253",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1792734233.016165,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "addshoppers.com",
+      "value": "2%7C1%3A0%7C10%3A1758173253%7C15%3Aaddshoppers.com%7C44%3AZmJhNTg3NmQ1NGRmNGZlNzk5MTFjYjFhZWY0NGUwYTY%3D%7C943a4cbf63ee4939338dc3db135ee11f9969d826460a420d77e5470dc817d661",
+      "domain": "www.udacity.com",
+      "path": "/",
+      "expires": 1792733253.951376,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_biz_uid",
+      "value": "9de81925282e40f980efa127c6df02fe",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710334,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_BUID",
+      "value": "9de81925282e40f980efa127c6df02fe",
+      "domain": ".bizible.com",
+      "path": "/",
+      "expires": 1789709254.283001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_bs",
+      "value": "240d620b-d9d9-4860-abb2-6d5f52b64a94",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710233,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "viewer_country",
+      "value": "KE",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1773725701.214074,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "viewer_continent",
+      "value": "AF",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1773725701.213976,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "marvin_panel_persistence",
+      "value": "{%22persistedMarvinPanelWidth%22:500%2C%22persistedIsMarvinOpen%22:true}",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758260094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bs",
+      "value": "240d620b-d9d9-4860-abb2-6d5f52b64a94",
+      "domain": ".learn.udacity.com",
+      "path": "/",
+      "expires": 1789709703,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "optimistic_progress_content",
+      "value": "{%22concepts%22:[%226d6317d3-8fda-4122-ba61-97f7a537777c%22%2C%2281e13fbe-ad77-4a9c-82c4-4824aa030309%22]%2C%22projects%22:[]%2C%22labs%22:[]}",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1758260100,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=33ox9gm9rr&rum=2&id=70a8c528-ad9f-4019-abd5-88baeb350b68&created=1758173692872&expire=1758174602212&logs=1",
+      "domain": "learn.udacity.com",
+      "path": "/",
+      "expires": 1758174602,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_biz_flagsA",
+      "value": "%7B%22Version%22%3A1%2C%22XDomain%22%3A%221%22%2C%22ViewThrough%22%3A%221%22%2C%22Frm%22%3A%221%22%7D",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710334,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ypt7ifHKzZMOwhMVmAPlxXPZMPmopwy81LTzW2U8Udc-1758174225-1.0.1.1-1jWn98nmPBTCuCROTowdbeC7v.P.tsVT3ruGnIWvqCH4NGdceG0fyqssOREhUCfqHYmYLp7k9CoIUyf2Si73IistwxOqlqNCy8LiI.Rz2.Q",
+      "domain": ".apollo.io",
+      "path": "/",
+      "expires": 1758176025.679909,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "FbrXxnzfjXwzqt8GWd2R53P7OjWQ_ZFpLXrecmgaPv4-1758174225-1.0.1.1-40fjMwvw0Ib.Uyp5VAX2TbeJixLLeqy8cTw2Mq6bG4ow70QOaspHuu2DTNx2mhM2wkDc_w9hiT6eh8.GS30fzCm_KTFe.Mg_ie.RDNtcEyw",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1758176025.765483,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "nGgCYOmdWYmwG1JntqUIov4J8rcLvqlm2SmfIqASmXU-1758174226-1.0.1.1-J9WFHnNJb7QTBiEOPvbwkpFr0leqk1M3n8vFYyWOxCtz6wEXOw.y.5PuJMf18ZQRQNwgLbVEhl6Im1KOOksX7V0nhxefmAp7bpE2VkRnzAE",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1758176025.980259,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_CF22GKVCFK",
+      "value": "GS2.1.s1758173252$o1$g1$t1758174250$j43$l0$h0",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1792734250.132749,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amplitude_idundefinedudacity.com",
+      "value": "eyJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1758173067242.62ac9850-11a1-4b70-8c15-95292be1b730",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1765950333,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_biz_nA",
+      "value": "8",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710334,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1202655035.1758173067.1348762391.1758173072.1758174334",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1765949067,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "addshoppers",
+      "value": "\"2|1:0|10:1758174335|11:addshoppers|44:ZmJhNTg3NmQ1NGRmNGZlNzk5MTFjYjFhZWY0NGUwYTY=|29c7bed786515706fb3ba944bff5c3c75d1d6be06efad32999a7683716eb60b0\"",
+      "domain": "shop.pe",
+      "path": "/",
+      "expires": 1792734335.091508,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_biz_pendingA",
+      "value": "%5B%5D",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1789710335,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_jwt",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjA3NjYzMzUsImlhdCI6MTc1ODE3NDMzNSwia2lkIjoiMTAwMCIsInVpZCI6IjEyMDY5ODg1NTEiLCJyb2xlcyI6WyJ1c2VyIl0sImRvbSI6IlVTIiwic2lnbmluIjoicGFzc3dvcmQifQ.SCqwYziy-nphDd9qK5rREfe12XDv2C5l5xpj2fHqb4wipjBf3Spl5X9Wxp-vzq4pBBRFOY_jl0b8_x2y4xc-4KJkT_MIo4j-qYSggXYIiYkII2-VPgFXoRaRtLmk-QZHHFPSYLFIpXaIZZbM_MEqibXQBy6KdAoIQPwYWBzYWqN99Kp9Y_TxvSX7TUG7DZebU2aCNbHxsTyOTwh4O5GJi3Am79GI2gZyWtXmwRGnVB6BhH427HhRwq-94nhdOFUu1b_tU_uKKExSar8DQT6fsw4709dvRE7GmoW4X1LW4ARECocNpd5fQ8-eWinhJ7DAXajgXKOWVQKXP0Jp-Bw1CQ",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1760766335,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amplitude_id_0143e7ffb7c6fc432d74f0a362536439udacity.com",
+      "value": "eyJkZXZpY2VJZCI6IjI0MGQ2MjBiLWQ5ZDktNDg2MC1hYmIyLTZkNWY1MmI2NGE5NCIsInVzZXJJZCI6IjEyMDY5ODg1NTEiLCJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOjE3NTgxNzMwNjYyNTIsImxhc3RFdmVudFRpbWUiOjE3NTgxNzQzMzU4NDAsImV2ZW50SWQiOjI4LCJpZGVudGlmeUlkIjoxNSwic2VxdWVuY2VOdW1iZXIiOjQzfQ==",
+      "domain": ".udacity.com",
+      "path": "/",
+      "expires": 1792734335.840318,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=0&expire=1758175235932",
+      "domain": "auth.udacity.com",
+      "path": "/",
+      "expires": 1758175238,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "viewer_city",
+      "value": "Nairobi",
+      "domain": "www.udacity.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "viewer_region",
+      "value": "30",
+      "domain": "www.udacity.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=2&id=3c391874-7688-45f2-bbd0-68ccf2df8a15&created=1758173251666&expire=1758175239458&logs=1",
+      "domain": "www.udacity.com",
+      "path": "/",
+      "expires": 1758175239,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.udacity.com",
+      "localStorage": [
+        {
+          "name": "li_adsId",
+          "value": "53407ff2-897b-4d3a-a261-ffef9f53da0b"
+        },
+        {
+          "name": "amplitude_unsent_0143e7ffb7c6fc432d74f0a362536439",
+          "value": "[]"
+        },
+        {
+          "name": "asTimeOnSiteSetTime",
+          "value": "1758174286531"
+        },
+        {
+          "name": "AS_DATA_PRIVACY_DATA_REGULATED",
+          "value": "false"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1758174232535"
+        },
+        {
+          "name": "asPageViews",
+          "value": "5"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":5,\"timeouts\":0,\"creationTimeMs\":1758174233025},\"expires\":1765950233025}}"
+        },
+        {
+          "name": "amplitude_unsent_identify_0143e7ffb7c6fc432d74f0a362536439",
+          "value": "[]"
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en-GB"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1758174232533"
+        },
+        {
+          "name": "asUsersActiveEmailCampaign",
+          "value": "68c90f11884bd9cdec818e1f"
+        },
+        {
+          "name": "tcmQuarantine",
+          "value": "{\"requests\":[],\"cookies\":[]}"
+        },
+        {
+          "name": "eventQueue",
+          "value": "[]"
+        },
+        {
+          "name": "asTimeOnSiteValue",
+          "value": "184000"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "other"
+        },
+        {
+          "name": "tcmr",
+          "value": "3"
+        },
+        {
+          "name": "chakra-ui-color-mode",
+          "value": "light"
+        },
+        {
+          "name": "apolloAnonId",
+          "value": "98b34886-4112-4526-a82b-feeac353c55f"
+        },
+        {
+          "name": "asShopperData",
+          "value": "{\"campaign_id\":\"68c90f11884bd9cdec818e1f\",\"active_cart\":true,\"idshopper\":\"64d09bc250c19c8f3604a1a4\",\"session_id\":\"fba5876d54df4fe79911cb1aef44e0a6\",\"datareg_gdpr_consented\":false}"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"240d620b-d9d9-4860-abb2-6d5f52b64a94\""
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "\"1206988551\""
+        },
+        {
+          "name": "ajs_user_traits",
+          "value": "{\"version\":\"2\",\"cta_location\":\"/dashboard\",\"user_status\":\"logged_in\",\"user_has_active_subscription\":false,\"site_identifier\":\"Next.Sites\",\"countryCode\":\"KE\",\"country\":\"KE\",\"regionCode\":\"30\",\"city\":\"Nairobi\",\"isEU\":false}"
+        }
+      ]
+    },
+    {
+      "origin": "https://auth.udacity.com",
+      "localStorage": [
+        {
+          "name": "li_adsId",
+          "value": "e7c54b1e-5dfc-4c97-b575-4b02d742a2d3"
+        },
+        {
+          "name": "amplitude_unsent_0143e7ffb7c6fc432d74f0a362536439",
+          "value": "[]"
+        },
+        {
+          "name": "asTimeOnSiteSetTime",
+          "value": "1758174338074"
+        },
+        {
+          "name": "trackalyzer",
+          "value": "ls76fb96-e061-46ea-93fb-f81f0959b72d"
+        },
+        {
+          "name": "AS_DATA_PRIVACY_DATA_REGULATED",
+          "value": "false"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1758174334941"
+        },
+        {
+          "name": "asPageViews",
+          "value": "7"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":7,\"timeouts\":0,\"creationTimeMs\":1758174332942},\"expires\":1765950332942}}"
+        },
+        {
+          "name": "amplitude_unsent_identify_0143e7ffb7c6fc432d74f0a362536439",
+          "value": "[]"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1758174333121"
+        },
+        {
+          "name": "asUsersActiveEmailCampaign",
+          "value": "68c90f11884bd9cdec818e1f"
+        },
+        {
+          "name": "eventQueue",
+          "value": "[]"
+        },
+        {
+          "name": "asTimeOnSiteValue",
+          "value": "34006"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "apolloAnonId",
+          "value": "3e3e68f3-0b00-418d-b24d-a0cb5883f8f6"
+        },
+        {
+          "name": "asShopperData",
+          "value": "{\"campaign_id\":\"68c90f11884bd9cdec818e1f\",\"active_cart\":true,\"idshopper\":\"64d09bc250c19c8f3604a1a4\",\"session_id\":\"fba5876d54df4fe79911cb1aef44e0a6\",\"datareg_gdpr_consented\":false}"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"240d620b-d9d9-4860-abb2-6d5f52b64a94\""
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "\"1206988551\""
+        },
+        {
+          "name": "ajs_user_traits",
+          "value": "{\"email\":\"ralphgibendi01@gmail.com\"}"
+        }
+      ]
+    }
+  ]
+}
